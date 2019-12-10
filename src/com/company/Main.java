@@ -9,6 +9,6 @@ public class Main {
                 new String[] {"being a hardarse", "agile", "ssd hard drives"});
         String greeting = person.hello();
         System.out.println(greeting);
-        //person.hello();
+
     }
 }

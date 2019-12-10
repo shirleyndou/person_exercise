@@ -26,10 +26,7 @@ public class Person {
             results += " and ";
         }
     }
-        //return resuls;
         System.out.print("Hello, my name is " + name + " I am " + age + " years old. " + " My interests are ");
-
-        //return null;
 
 
         return results;
