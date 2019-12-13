@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02901d13-3376-4023-9248-acd6e73e33d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +85,33 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576221682398">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1576221682398" />
     <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575985873874">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1575985873874" />
+    <state width="604" height="174" key="GridCell.Tab.0.bottom" timestamp="1575986214442">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="174" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575986214442" />
+    <state width="604" height="174" key="GridCell.Tab.0.center" timestamp="1575986214442">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="174" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575986214442" />
+    <state width="604" height="174" key="GridCell.Tab.0.left" timestamp="1575986214441">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="174" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575986214441" />
+    <state width="604" height="174" key="GridCell.Tab.0.right" timestamp="1575986214442">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="174" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575986214442" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1576221435397">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1576221435397" />
   </component>
 </project>
